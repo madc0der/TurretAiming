@@ -1,5 +1,8 @@
 ## Turret Aiming system
 
+### Demo
+![](doc-images/demo.gif)
+
 Scene name: TurretTargetScene
 
 Demo: Turret located on arbitrary oriented platform aimed for target.
